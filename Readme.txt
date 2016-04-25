@@ -1,7 +1,3 @@
-Name: Vivek Arvind Balaji
-UTA id: 1001108300
-
-Project 1 - CSE 5344 Computer Networks(Summer 2015) 
 Building a Simple Web Client and a Multithreaded Web Server
 
 Steps for execution:
